@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"lambda_function","Source":"git::ssh://git@github.com/terraform-aws-modules/terraform-aws-lambda.git?ref=v7.16.0","Dir":".terraform/modules/lambda_function"}]}
